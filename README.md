@@ -21,3 +21,10 @@
 * Functions
 * Comments
 * Control Flow
+
+## Chapter 3: Understanding Ownership
+
+* What is ownership?
+* References and borrowing
+* The slice type
+* Summary: learned borrowing, slices, and how Rust lays data out in memory
