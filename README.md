@@ -13,3 +13,11 @@
 * Basics between immutable and mutable
 * Learning good practices with the built in debugging
 * Leveraged error checking for user accountability 
+
+## Chapter 3: Common Programming Concepts
+
+* Variables and Mutablility
+* Data Types
+* Functions
+* Comments
+* Control Flow
