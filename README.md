@@ -9,3 +9,7 @@
 
 ## Chapter 2: Programming a Guessing Game
 
+* Learned std io syntax
+* Basics between immutable and mutable
+* Learning good practices with the built in debugging
+* Leveraged error checking for user accountability 
