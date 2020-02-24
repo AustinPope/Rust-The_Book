@@ -22,7 +22,7 @@
 * Comments
 * Control Flow
 
-## Chapter 3: Understanding Ownership
+## Chapter 4: Understanding Ownership
 
 * What is ownership?
 * References and borrowing
