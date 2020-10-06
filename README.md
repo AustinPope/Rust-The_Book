@@ -5,7 +5,7 @@
 ## Chapter 1: Getting Started, Hellow, World!
 
 * Hello world!
-* Hellow Cargo!
+* Hello Cargo!
 
 ## Chapter 2: Programming a Guessing Game
 
